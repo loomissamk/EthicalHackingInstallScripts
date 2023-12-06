@@ -1,2 +1,2 @@
-# EthicalHackingInstallScripts
-Ethical Hacking Install Scripts
+# EthicalHackingToolInstallScripts
+Ethical Hacking Tool Install Scripts
